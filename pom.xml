@@ -19,7 +19,7 @@
         <version>2.6.3</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.core.framework</groupId>
+    <groupId>com.central.framework</groupId>
     <artifactId>central-framework</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>central-framework</name>
