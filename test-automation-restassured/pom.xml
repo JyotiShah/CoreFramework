@@ -10,10 +10,18 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>test-automation-restassured</artifactId>
-
+    <packaging>jar</packaging>
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
         <maven.compiler.target>8</maven.compiler.target>
     </properties>
+    <dependencies>
+        <dependency>
+            <groupId>io.rest-assured</groupId>
+            <artifactId>rest-assured</artifactId>
+            <version>5.0.1</version>
+            <scope>test</scope>
+        </dependency>
 
+    </dependencies>
 </project>
