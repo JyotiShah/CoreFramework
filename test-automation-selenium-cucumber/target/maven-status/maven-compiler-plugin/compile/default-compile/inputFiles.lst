@@ -1,0 +1,12 @@
+D:\Jyoti\code\CoreFramework\test-automation-selenium-cucumber\src\main\java\com\centralframework\springbootseleniumcucumber\configuration\CompScan.java
+D:\Jyoti\code\CoreFramework\test-automation-selenium-cucumber\src\main\java\com\centralframework\springbootseleniumcucumber\configuration\FakerConfig.java
+D:\Jyoti\code\CoreFramework\test-automation-selenium-cucumber\src\main\java\com\centralframework\springbootseleniumcucumber\configuration\SpringCucumberTest.java
+D:\Jyoti\code\CoreFramework\test-automation-selenium-cucumber\src\main\java\com\centralframework\springbootseleniumcucumber\base\BasePage.java
+D:\Jyoti\code\CoreFramework\test-automation-selenium-cucumber\src\main\java\com\centralframework\springbootseleniumcucumber\scope\BrowserScopeConfig.java
+D:\Jyoti\code\CoreFramework\test-automation-selenium-cucumber\src\main\java\com\centralframework\springbootseleniumcucumber\configuration\CucumberRunner.java
+D:\Jyoti\code\CoreFramework\test-automation-selenium-cucumber\src\main\java\com\centralframework\springbootseleniumcucumber\scope\BrowserScopePostProcessor.java
+D:\Jyoti\code\CoreFramework\test-automation-selenium-cucumber\src\main\java\com\centralframework\springbootseleniumcucumber\SpringApplication.java
+D:\Jyoti\code\CoreFramework\test-automation-selenium-cucumber\src\main\java\com\centralframework\springbootseleniumcucumber\scope\BrowserScope.java
+D:\Jyoti\code\CoreFramework\test-automation-selenium-cucumber\src\main\java\com\centralframework\springbootseleniumcucumber\service\WindowSwitchService.java
+D:\Jyoti\code\CoreFramework\test-automation-selenium-cucumber\src\main\java\com\centralframework\springbootseleniumcucumber\hooks\CucumberHooks.java
+D:\Jyoti\code\CoreFramework\test-automation-selenium-cucumber\src\main\java\com\centralframework\springbootseleniumcucumber\service\ScreenshotService.java

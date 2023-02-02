@@ -1,0 +1,11 @@
+com\centralframework\springboot\supportselenium\annotation\LazyConfiguration.class
+com\centralframework\springboot\supportselenium\annotation\PageFragment.class
+com\centralframework\springboot\supportselenium\annotation\Window.class
+com\centralframework\springboot\supportselenium\annotation\LazyAutowired.class
+com\centralframework\springboot\supportselenium\MainClass.class
+com\centralframework\springboot\supportselenium\annotation\Page.class
+com\centralframework\springboot\supportselenium\annotation\TakeScreenshot.class
+com\centralframework\springboot\supportselenium\utils\common\Waits.class
+com\centralframework\springboot\supportselenium\utils\common\WebInteractions.class
+com\centralframework\springboot\supportselenium\utils\custom\ExcelUtil.class
+com\centralframework\springboot\supportselenium\annotation\ThreadScopeBean.class

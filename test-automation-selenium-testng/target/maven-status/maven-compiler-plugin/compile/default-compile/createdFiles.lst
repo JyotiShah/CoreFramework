@@ -1,0 +1,7 @@
+com\centralframework\springboot\testngselenium\service\WebDriverManagerUtil.class
+com\centralframework\springboot\testngselenium\service\ScreenshotService.class
+com\centralframework\springboot\testngselenium\service\WindowSwitchService.class
+com\centralframework\springboot\testngselenium\MainClass.class
+com\centralframework\springboot\testngselenium\service\WebDriverWaitConfig.class
+com\centralframework\springboot\testngselenium\base\BaseTest.class
+com\centralframework\springboot\testngselenium\service\FakerConfig.class

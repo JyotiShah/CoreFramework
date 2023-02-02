@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: com.centralframework.springboot.testngselenium.MainClass
+Class-Path: .
+Created-By: Jyoti Shah
